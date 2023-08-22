@@ -8,6 +8,12 @@ Introdução a Lógica de Programação com Scratch
 Andres Cristian
 ## Projetos
 - [Cálculo da Média](https://scratch.mit.edu/projects/881964780/)
+- [Cálculo de Porcentagem](https://scratch.mit.edu/projects/882634609/)
 - [Conversão de Temperatura](https://scratch.mit.edu/projects/882607996/)
+- [Conversão de Peso](https://scratch.mit.edu/projects/884622927/)
+- [Conversão de Velocidade](https://scratch.mit.edu/projects/884617836/)
+- [PDV - Ponto de Vendas](https://scratch.mit.edu/projects/883235661/)
 - [Custo x Venda](https://scratch.mit.edu/projects/884649784/)
+ 
+  
 
