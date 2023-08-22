@@ -6,3 +6,5 @@
 Introdução a Lógica de Programação com Scratch
 ## Autor
 Andres Cristian
+## Projetos
+[Cálculo da Média](https://scratch.mit.edu/projects/881964780/)
