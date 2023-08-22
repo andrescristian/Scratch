@@ -9,3 +9,5 @@ Andres Cristian
 ## Projetos
 - [Cálculo da Média](https://scratch.mit.edu/projects/881964780/)
 - [Conversão de Temperatura](https://scratch.mit.edu/projects/882607996/)
+- [Custo x Venda](https://scratch.mit.edu/projects/884649784/)
+
