@@ -1,7 +1,9 @@
 ![GitHub](https://img.shields.io/github/license/andrescristian/Scratch?style=flat-square)
+
 <p align="center">
-<img src="https://github.com/andrescristian/Scratch/blob/main/Assets/icons/scratch.png"/>
+<img width="370" src="https://github.com/andrescristian/Scratch/blob/main/Assets/icons/scratch.png"/>
 </p>
+
 # Scratch
 Introdução a Lógica de Programação com Scratch
 ## Autor
@@ -14,6 +16,3 @@ Andres Cristian
 - [Conversão de Velocidade](https://scratch.mit.edu/projects/884617836/)
 - [PDV - Ponto de Vendas](https://scratch.mit.edu/projects/883235661/)
 - [Custo x Venda](https://scratch.mit.edu/projects/884649784/)
- 
-  
-
