@@ -16,3 +16,4 @@ Andres Cristian
 - [Conversão de Velocidade](https://scratch.mit.edu/projects/884617836/)
 - [PDV - Ponto de Vendas](https://scratch.mit.edu/projects/883235661/)
 - [Custo x Venda](https://scratch.mit.edu/projects/884649784/)
+- [Cálculo da Hora de Serviço](https://scratch.mit.edu/projects/885157877/)
