@@ -6,7 +6,8 @@
 
 <h1 align="center">Scratch</h1>
 
-Introdução a Lógica de Programação com Scratch
+<h3 align="center">Introdução a Lógica de Programação com Scratch</h3>
+
 ## Autor :
 Andres Cristian
 ## Projetos :
