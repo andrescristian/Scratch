@@ -4,7 +4,8 @@
 <img width="370" src="https://github.com/andrescristian/Scratch/blob/main/Assets/icons/scratch.png"/>
 </p>
 
-# Scratch
+<h1 align="center">Scratch</h1>
+
 Introdução a Lógica de Programação com Scratch
 ## Autor :
 Andres Cristian
