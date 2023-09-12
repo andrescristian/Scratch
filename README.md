@@ -22,9 +22,9 @@ Andres Cristian
 - [Etanol x Gasolina](https://scratch.mit.edu/projects/887233535/)
 - [PDV - Ponto de Vendas](https://scratch.mit.edu/projects/883235661/)
 - [Aninhamento "if - else"](https://scratch.mit.edu/projects/889252710/)
-- [And ( & )](https://scratch.mit.edu/projects/888055207/)
-- [Or ( || )](https://scratch.mit.edu/projects/888069761/)
-- [Not ( ! )](https://scratch.mit.edu/projects/888086291/)
+- [Operador Lógico - And ( & )](https://scratch.mit.edu/projects/888055207/)
+- [Operador Lógico - Or ( || )](https://scratch.mit.edu/projects/888069761/)
+- [Operador Lógico - Not ( ! )](https://scratch.mit.edu/projects/888086291/)
 
 ## Hora do Código :
 ![Hora Do Código](https://github.com/andrescristian/Scratch/blob/main/Assets/icons/CertificadoAndres.jpg)
